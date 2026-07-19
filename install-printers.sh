@@ -48,7 +48,11 @@ sudo systemctl enable avahi-daemon
 sudo systemctl restart avahi-daemon
 
 echo
-echo "===================================="
-echo " Printer Drivers Installed!"
-echo " Open http://localhost:631"
+echo "Printer installation completed."
+echo
+echo "Open your browser:"
+echo "http://localhost:631"
+echo
+echo "Or open:"
+echo "System Settings → Printers"
 echo "===================================="
