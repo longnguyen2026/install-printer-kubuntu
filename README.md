@@ -3,9 +3,7 @@
 ## Cài đặt
 
 ```bash
-wget https://raw.githubusercontent.com/TEN_GITHUB/printer-drivers/main/install-printers.sh
-
+wget https://raw.githubusercontent.com/longnguyen2026/install-printer-kubuntu/main/install-printers.sh
 chmod +x install-printers.sh
-
 ./install-printers.sh
 ```
