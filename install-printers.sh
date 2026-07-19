@@ -3,7 +3,7 @@
 set -e
 
 echo "===================================="
-echo " Linux Mint Printer Driver Installer"
+echo " Linux Printer Driver Installer"
 echo "===================================="
 
 sudo apt update
